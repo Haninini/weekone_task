@@ -1,8 +1,8 @@
 # weekone_task
 QR Card task
 
-Below is the link to the published webpage:
-
+## Below is the link to the published webpage:
+https://haninini.github.io/weekone_task/
 
 
 ## The answers to the short questions:
